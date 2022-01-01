@@ -34,6 +34,7 @@ require 'includes/common.php'
           <h1>Welcome to our Lifestyle Store!</h1>
           <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
         </div>
+          <div id="content-wrap">
         <div class="row text-center">
           <div class="col-md-3 col-sm-6">
             <div class="thumbnail">
@@ -267,6 +268,7 @@ require 'includes/common.php'
             </div>
           </div>
         </div>
+      </div>
       </div>
    </div>
   <?php
