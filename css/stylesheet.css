@@ -1,10 +1,10 @@
 #banner_image{
  padding-top: 80px;
- padding-bottom: 75px;
+ padding-bottom: 110px;
  text-align: center;
  color: #f8f8f8;
  background: url(../images/intro-bg_1.jpg) no-repeat center center;
- background-size: cover;
+ background-size: 100%;
 }
 
 #banner_content{
